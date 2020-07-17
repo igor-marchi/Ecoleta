@@ -1,0 +1,33 @@
+
+:root {
+    --primary-color: #34cb79;
+    --primary-hover:  #2fb865;
+    --title-color: #322153;
+    --background-body:#f0f0f5;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Roboto Slab', serif;
+}
+
+body{
+    background-color: var(--background-body);
+    -webkit-font-smoothing: antialiased;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1,h2,h3,h4{
+    font-family: 'Gelasio', serif;
+    color: var(--title-color);
+}
+
+
