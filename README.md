@@ -37,4 +37,4 @@ $ cd Ecoleta
 $ npm install
 ```
 ## :memo: License
-This project is under the MIT license. See the [LICENSE]() for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/IgorMarchi/Ecoleta/blob/master/LICENSE) for more information.
